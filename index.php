@@ -1,6 +1,6 @@
 <!--
 	Compañía: Bynary01
-	Autor: Brayan Rojas
+	Autor: Ricardo Cardona
 	Sistema: Midnight
 	Fecha: 13/02/2017
 	Descripción: Sitio Web Midnight
