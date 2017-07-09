@@ -1,6 +1,6 @@
 <!--
 	Compañía: Bynary01
-	Autor: Brayan Rojas
+	Autor: Ricardo Cardona
 	Sistema: 2park
 	Fecha: 25/09/2016
 	Descripción: Index Midnight	
