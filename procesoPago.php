@@ -6,7 +6,7 @@
 ?>
 <!--
 	Compañía: Bynary01
-	Autor: Brayan Rojas
+	Autor: Ricardo cardona
 	Sistema: Midnight
 	Fecha: 22/11/2016
 	Descripción: Compra final Midnight	
